@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterviewTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="no_persons_available">No persons available</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="age">Age:</string>
+    <string name="gender">Gender:</string>
+    <string name="country">Country:</string>
+</resources>
